@@ -51,5 +51,5 @@ This assignment focused on outliers detection and calculations via semi-supervis
 
 Assignment #13:
 
-
+This assignment focused on different types and reasons for data mining. For example, statistical data mining, audio data mining, and visual data mining.
 
